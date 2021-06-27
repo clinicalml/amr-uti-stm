@@ -1,5 +1,7 @@
 # Code for replication of "A decision algorithm to promote outpatient antimicrobial stewardship for uncomplicated urinary tract infection"
 
+[![DOI](https://zenodo.org/badge/297410772.svg)](https://zenodo.org/badge/latestdoi/297410772)
+
 This code is meant to be used in conjunction with the [AMR-UTI dataset](http://www.clinicalml.org/data/amr-dataset) for replication of the main analyses in the paper. 
 
 ## Preface: Important Note on Replication
